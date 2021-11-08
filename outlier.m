@@ -1,4 +1,5 @@
 %%%%Check the total of images SAR and standart deviation&&&&
+%Raudlah
 clear
 clc
 % Load LOS data
